@@ -28,7 +28,6 @@ function activateMenuAtCurrentSection(section) {
 
     if (sectionBaundaries) {
         menuElement.classList.add('active')
-        console.log(menuElement)
     }
 
 }
