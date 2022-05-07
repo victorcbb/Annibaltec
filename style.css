@@ -414,6 +414,10 @@ body.menu-expanded button path {
   color: var(--paragraph);
 }
 
+#contact svg path {
+  stroke: var(--primary-color);
+}
+
 #contact img {
   max-width: 100%;
 }
